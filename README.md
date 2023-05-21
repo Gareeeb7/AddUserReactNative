@@ -1,5 +1,5 @@
 # AddUserReactNative
-This is test Application to list users using an opne source API and adding new users with validations.
+This a is test Application to list users using an opne source API and adding new users with validations.
 
 ## How To Run
 
